@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6794932dfce94bbc4f0fcba4c1c92a05",
+    "revision": "124cebe26d26ed0748bdcc2639e0a0da",
     "url": "/generatoredifrasidelmantu/index.html"
   },
   {
