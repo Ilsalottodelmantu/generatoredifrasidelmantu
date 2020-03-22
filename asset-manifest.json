@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/generatoredifrasidelmantu/static/css/main.227477ea.chunk.css",
+    "main.css": "/generatoredifrasidelmantu/static/css/main.8e96ba3c.chunk.css",
     "main.js": "/generatoredifrasidelmantu/static/js/main.c02d195f.chunk.js",
     "main.js.map": "/generatoredifrasidelmantu/static/js/main.c02d195f.chunk.js.map",
     "runtime-main.js": "/generatoredifrasidelmantu/static/js/runtime-main.c583de69.js",
@@ -8,15 +8,15 @@
     "static/js/2.d327ef36.chunk.js": "/generatoredifrasidelmantu/static/js/2.d327ef36.chunk.js",
     "static/js/2.d327ef36.chunk.js.map": "/generatoredifrasidelmantu/static/js/2.d327ef36.chunk.js.map",
     "index.html": "/generatoredifrasidelmantu/index.html",
-    "precache-manifest.c2dec6ea132a2c45b79072d5479ad843.js": "/generatoredifrasidelmantu/precache-manifest.c2dec6ea132a2c45b79072d5479ad843.js",
+    "precache-manifest.70b938bb9efb3f32ab5b74dba865e0a9.js": "/generatoredifrasidelmantu/precache-manifest.70b938bb9efb3f32ab5b74dba865e0a9.js",
     "service-worker.js": "/generatoredifrasidelmantu/service-worker.js",
-    "static/css/main.227477ea.chunk.css.map": "/generatoredifrasidelmantu/static/css/main.227477ea.chunk.css.map",
+    "static/css/main.8e96ba3c.chunk.css.map": "/generatoredifrasidelmantu/static/css/main.8e96ba3c.chunk.css.map",
     "static/js/2.d327ef36.chunk.js.LICENSE.txt": "/generatoredifrasidelmantu/static/js/2.d327ef36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c583de69.js",
     "static/js/2.d327ef36.chunk.js",
-    "static/css/main.227477ea.chunk.css",
+    "static/css/main.8e96ba3c.chunk.css",
     "static/js/main.c02d195f.chunk.js"
   ]
 }
