@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/generatoredifrasidelmantu/static/css/main.52974c5e.chunk.css",
-    "main.js": "/generatoredifrasidelmantu/static/js/main.2b0d8e14.chunk.js",
-    "main.js.map": "/generatoredifrasidelmantu/static/js/main.2b0d8e14.chunk.js.map",
+    "main.js": "/generatoredifrasidelmantu/static/js/main.a095a057.chunk.js",
+    "main.js.map": "/generatoredifrasidelmantu/static/js/main.a095a057.chunk.js.map",
     "runtime-main.js": "/generatoredifrasidelmantu/static/js/runtime-main.c583de69.js",
     "runtime-main.js.map": "/generatoredifrasidelmantu/static/js/runtime-main.c583de69.js.map",
     "static/js/2.f1923622.chunk.js": "/generatoredifrasidelmantu/static/js/2.f1923622.chunk.js",
     "static/js/2.f1923622.chunk.js.map": "/generatoredifrasidelmantu/static/js/2.f1923622.chunk.js.map",
     "index.html": "/generatoredifrasidelmantu/index.html",
-    "precache-manifest.90870fdf9baefc49fed2162df69162f3.js": "/generatoredifrasidelmantu/precache-manifest.90870fdf9baefc49fed2162df69162f3.js",
+    "precache-manifest.39b3488434905497613ceaabe888678e.js": "/generatoredifrasidelmantu/precache-manifest.39b3488434905497613ceaabe888678e.js",
     "service-worker.js": "/generatoredifrasidelmantu/service-worker.js",
     "static/css/main.52974c5e.chunk.css.map": "/generatoredifrasidelmantu/static/css/main.52974c5e.chunk.css.map",
     "static/js/2.f1923622.chunk.js.LICENSE.txt": "/generatoredifrasidelmantu/static/js/2.f1923622.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c583de69.js",
     "static/js/2.f1923622.chunk.js",
     "static/css/main.52974c5e.chunk.css",
-    "static/js/main.2b0d8e14.chunk.js"
+    "static/js/main.a095a057.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/generatoredifrasidelmantu/precache-manifest.90870fdf9baefc49fed2162df69162f3.js"
+  "/generatoredifrasidelmantu/precache-manifest.39b3488434905497613ceaabe888678e.js"
 );
 
 self.addEventListener('message', (event) => {
